@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Alfredo Morales Pinzón (BWH & Harvard)
 - Andrzej Marciniak (BWH & Harvard)
 - Charles Guttmann (BWH & Harvard)
+- Andras Lasso (Queen's Univeristy)
 
 # Project Description
 
